@@ -3,7 +3,7 @@
 	"description": "Mysterious skittering fuzzball.",
 	"powers":[
 		"origins:climbing",
-		"origins:nine_lives",
+		"bibbly-origins:mothball/open-circulatory-system",
 		"origins:elytra",
 		"origins-plus-plus:moth/compound_vision",
 		"origins-plus-plus:moth/easy_evasion",
