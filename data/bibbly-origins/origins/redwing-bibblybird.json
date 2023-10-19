@@ -1,0 +1,13 @@
+{
+	"name": "Redwing Bibblybird",
+	"description": "I just wanna be bird.",
+	"powers": [
+		"origins_minus:flap",
+		"origins_minus:glide",
+		"origins_minus:like_air"
+	],
+	"icon": {
+		"item": "minecraft:feather"
+	},
+	"impact": 1
+}

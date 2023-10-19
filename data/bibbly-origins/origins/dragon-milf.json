@@ -1,0 +1,21 @@
+{
+	"name": "Dragon MILF",
+	"description": "Butterfly in the sky, I can go twice as high!",
+	"powers":[
+		"origins:carnivore",
+		"origins:elytra",
+		"origins-plus-plus:wyverian/claws",
+		"origins-plus-plus:wyverian/night_vision",
+		"origins-plus-plus:wyverian/poison_immune",
+		"origins-plus-plus:wyverian/projectile",
+		"origins-plus-plus:wyverian/shield",
+		"origins-plus-plus:wyverian/size",
+		"origins-plus-plus:wyverian/water",
+		"origins-plus-plus:wyverian/wind"
+	],
+	"icon": {
+		"item": "minecraft:ender_eye"
+	},
+	"impact": 3
+}
+
