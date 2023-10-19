@@ -5,7 +5,7 @@
 - Redwing Bibblybird (copy of Origins Minus' Avian)
     - readded vegetarianism
 - Half-Ender (copy of Origins' Enderian)
-    - TODO: taller default size
+    - taller default size
 - Mothball (copy of Origins++'s Moth)
     - TODO:hunger cost for flying
     - TODO: reduce flying cooldown
