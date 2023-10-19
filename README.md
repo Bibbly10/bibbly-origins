@@ -3,7 +3,7 @@
 
 ### List of changes (implemented or planned):
 - Redwing Bibblybird (copy of Origins Minus' Avian)
-    - TODO: readd vegetarianism
+    - readded vegetarianism
 - Half-Ender (copy of Origins' Enderian)
     - TODO: taller default size
 - Mothball (copy of Origins++'s Moth)
