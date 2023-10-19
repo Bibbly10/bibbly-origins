@@ -7,12 +7,12 @@
 - Half-Ender (copy of Origins' Enderian)
     - taller default size
 - Mothball (copy of Origins++'s Moth)
-    - TODO:hunger cost for flying
+    - TODO: hunger cost for flying
     - TODO: reduce flying cooldown
     - TODO: weakness to bane of arthropods
     - TODO: reduce max health
     - TODO: remove "light affinity" and "overwhelming light" powers
 - Dragon MILF (copy of Origins++'s Wyvernian)
-    - TODO: night vision toggleable ability
+    - night vision toggleable ability
 
 ### requires origins, origins minus, and origins++
