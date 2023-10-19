@@ -11,7 +11,7 @@
     - TODO: reduce flying cooldown
     - TODO: weakness to bane of arthropods
     - reduce max health
-    - TODO: remove "light affinity" and "overwhelming light" powers
+    - remove "light affinity" and "overwhelming light" powers
 - Dragon MILF (copy of Origins++'s Wyvernian)
     - night vision toggleable ability
 
