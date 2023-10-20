@@ -1,11 +1,11 @@
 {
-  "name": "Open Circulatory System",
-  "description": "Vulnerable to squishing.",
-    "type": "origins:attribute",
-    "modifier": {
-      "name": "(is a bug) health reduction",
-      "attribute": "minecraft:generic.max_health",
-      "value": -6.0,
-      "operation": "addition"
-    }
+	"name": "Open Circulatory System",
+	"description": "Vulnerable to squishing.",
+	"type": "origins:attribute",
+	"modifier": {
+		"name": "(is a bug) health reduction",
+		"attribute": "minecraft:generic.max_health",
+		"value": -6.0,
+		"operation": "addition"
+	}
 }
