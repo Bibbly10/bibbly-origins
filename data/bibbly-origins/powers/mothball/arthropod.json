@@ -1,0 +1,6 @@
+{
+    "name": "Arthropod",
+    "description": "You're a bug! Watch out for enchanted swords!",
+    "type": "origins:entity_group",
+    "group": "arthropod"
+}

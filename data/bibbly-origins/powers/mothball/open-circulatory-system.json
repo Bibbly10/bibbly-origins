@@ -1,6 +1,6 @@
 {
   "name": "Open Circulatory System",
-  "description": "Vulnerably to squishing.",
+  "description": "Vulnerable to squishing.",
     "type": "origins:attribute",
     "modifier": {
       "name": "(is a bug) health reduction",

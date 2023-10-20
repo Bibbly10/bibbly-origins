@@ -4,10 +4,11 @@
 	"powers":[
 		"origins:climbing",
 		"bibbly-origins:mothball/open-circulatory-system",
+		"bibbly-origins:mothball/arthropod",
 		"origins:elytra",
 		"origins-plus-plus:moth/compound_vision",
 		"origins-plus-plus:moth/easy_evasion",
-		"origins-plus-plus:moth/expulsion",
+		"bibbly-origins:mothball/hopper",
 		"origins-plus-plus:moth/flammable_body",
 		"origins-plus-plus:moth/jackolantern_affinity",
 		"origins-plus-plus:moth/lantern_affinity",
